@@ -256,3 +256,6 @@ This repository serves as the official landing page for Slideshow Creator. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Slideshow Creator today!**
+
+---
+**Last updated:** 2026-09-08 19:47:43 UTC
